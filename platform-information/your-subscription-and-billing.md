@@ -6,23 +6,6 @@ description: >-
 
 # Your Subscription & Billing
 
-## Changing Subscription Plan
-
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select your subscription plan and press "Edit Subscription"
-4. Choose your plan from the drop down and press "Update Subscription"
-
-\|\| You will need to add a payment method before switching to a paid plan
-
-## Add A Payment Method
-
-We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
-
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select "Payment Methods" and enter your card details
-
 ## Billing Cycle
 
 You will be billed on the same day that your account was activated every month.
@@ -37,7 +20,7 @@ If your account has been cancelled due to a failed payment, you will no longer b
 
 ## Re-Activating Your Subscription
 
-If your account is cancelled, add a valid payment method to re-active your subscription.
+If your account is cancelled, please contact us to add a valid payment method to re-active your subscription.
 
 ## Refunds
 
