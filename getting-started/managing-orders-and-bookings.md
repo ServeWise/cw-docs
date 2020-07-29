@@ -43,6 +43,8 @@ The list view provides you with an overview of your latest orders 10, 25, 50 or 
 
 Once you select an order, you will see a popup showing you the details of your order.
 
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_8eby9d.png)
+
 Here you are able to do the following functions
 
 * Change status - update the order status
